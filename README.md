@@ -1,0 +1,1 @@
+A simple To-Do List Application built using Python that helps users manage daily tasks efficiently. Users can add, update, delete, and view tasks easily. The project uses file handling to store tasks permanently and demonstrates Python basics like functions, loops, lists, and conditional statements.
